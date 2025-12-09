@@ -1,0 +1,707 @@
+[
+  {
+    "translation": "здравствуйте (при встрече)",
+    "answer": "Guten Tag",
+    "example": "**Guten Tag**, wie geht es Ihnen?"
+  },
+  {
+    "translation": "до свидания",
+    "answer": "Auf Wiedersehen",
+    "example": "**Auf Wiedersehen**, bis bald!"
+  },
+  {
+    "translation": "пожалуйста (в просьбе)",
+    "answer": "Bitte",
+    "example": "Gib mir das Buch, **bitte**."
+  },
+  {
+    "translation": "спасибо",
+    "answer": "Danke",
+    "example": "**Danke** schön für die Hilfe."
+  },
+  {
+    "translation": "извините (привлечь внимание)",
+    "answer": "Entschuldigung",
+    "example": "**Entschuldigung**, wo ist die Toilette?"
+  },
+  {
+    "translation": "учить/вчити",
+    "answer": "lernen",
+    "example": "Ich **lerne** Deutsch."
+  },
+  {
+    "translation": "быть, являться (Infinitiv)",
+    "answer": "sein",
+    "example": "Er **ist** 20 Jahre alt."
+  },
+  {
+    "translation": "жить, проживать",
+    "answer": "wohnen",
+    "example": "Wir **wohnen** in Zürich."
+  },
+  {
+    "translation": "работать",
+    "answer": "arbeiten",
+    "example": "Sie **arbeitet** als Lehrerin."
+  },
+  {
+    "translation": "иметь",
+    "answer": "haben",
+    "example": "Ich **habe** eine Frage."
+  },
+  {
+    "translation": "говорить",
+    "answer": "sprechen",
+    "example": "**Sprichst** du Englisch und Deutsch?"
+  },
+  {
+    "translation": "понимать",
+    "answer": "verstehen",
+    "example": "**Verstehen** Sie die Aufgabe?"
+  },
+  {
+    "translation": "покупать",
+    "answer": "kaufen",
+    "example": "Er **kauft** Brot im Supermarkt."
+  },
+  {
+    "translation": "приходить, прибывать",
+    "answer": "kommen",
+    "example": "**Kommst** du auch zur Party?"
+  },
+  {
+    "translation": "слушать",
+    "answer": "hören",
+    "example": "Ich **höre** Musik."
+  },
+  {
+    "translation": "смотреть, видеть",
+    "answer": "sehen",
+    "example": "**Siehst** du den Mann?"
+  },
+  {
+    "translation": "писать",
+    "answer": "schreiben",
+    "example": "Ich **schreibe** einen Brief."
+  },
+  {
+    "translation": "спрашивать",
+    "answer": "fragen",
+    "example": "Kann ich etwas **fragen**?"
+  },
+  {
+    "translation": "отвечать",
+    "answer": "antworten",
+    "example": "**Antworten** Sie bitte!"
+  },
+  {
+    "translation": "завтракать",
+    "answer": "frühstücken",
+    "example": "Ich **frühstücke** um sieben Uhr."
+  },
+  {
+    "translation": "вставать (утром)",
+    "answer": "aufstehen",
+    "example": "Er muss früh **aufstehen**."
+  },
+  {
+    "translation": "ходить/ехать",
+    "answer": "gehen",
+    "example": "Wir **gehen** ins Kino."
+  },
+  {
+    "translation": "ехать (транспортом)",
+    "answer": "fahren",
+    "example": "Ich **fahre** mit dem Bus."
+  },
+  {
+    "translation": "смотреть телевизор",
+    "answer": "fernsehen",
+    "example": "**Siehst** du oft **fern**?"
+  },
+  {
+    "translation": "спать",
+    "answer": "schlafen",
+    "example": "Die Kinder **schlafen** jetzt."
+  },
+  {
+    "translation": "встречаться (с кем-то)",
+    "answer": "treffen",
+    "example": "Ich **treffe** meine Freunde."
+  },
+  {
+    "translation": "убирать, прибираться",
+    "answer": "aufräumen",
+    "example": "Ich muss mein Zimmer **aufräumen**."
+  },
+  {
+    "translation": "открывать",
+    "answer": "öffnen",
+    "example": "Kannst du das Fenster **öffnen**?"
+  },
+  {
+    "translation": "закрывать",
+    "answer": "schließen",
+    "example": "Bitte **schließe** die Tür."
+  },
+  {
+    "translation": "готовить",
+    "answer": "kochen",
+    "example": "Er **kocht** heute Abend."
+  },
+  {
+    "translation": "звонить (по телефону)",
+    "answer": "anrufen",
+    "example": "Ich **rufe** dich **an**."
+  },
+  {
+    "translation": "мочь, уметь (модальный)",
+    "answer": "können",
+    "example": "Ich **kann** gut schwimmen."
+  },
+  {
+    "translation": "должен, обязан (модальный)",
+    "answer": "müssen",
+    "example": "Sie **muss** arbeiten."
+  },
+  {
+    "translation": "хотеть (модальный)",
+    "answer": "wollen",
+    "example": "Er **will** nach Berlin fahren."
+  },
+  {
+    "translation": "любить, нравиться (модальный)",
+    "answer": "mögen",
+    "example": "Ich **mag** Schokolade."
+  },
+  {
+    "translation": "книга",
+    "answer": "das Buch",
+    "example": "Das ist **das Buch**."
+  },
+  {
+    "translation": "стол",
+    "answer": "der Tisch",
+    "example": "Wo steht **der Tisch**?"
+  },
+  {
+    "translation": "имя, фамилия",
+    "answer": "der Name",
+    "example": "Wie ist Ihr **Name**?"
+  },
+  {
+    "translation": "страна",
+    "answer": "das Land",
+    "example": "Aus welchem **Land** kommen Sie?"
+  },
+  {
+    "translation": "город",
+    "answer": "die Stadt",
+    "example": "Bern ist eine schöne **Stadt**."
+  },
+  {
+    "translation": "помощь",
+    "answer": "die Hilfe",
+    "example": "Brauchen Sie **Hilfe**?"
+  },
+  {
+    "translation": "вода",
+    "answer": "das Wasser",
+    "example": "Ich trinke gern **Wasser**."
+  },
+  {
+    "translation": "мать",
+    "answer": "die Mutter",
+    "example": "Meine **Mutter** ist nett."
+  },
+  {
+    "translation": "отец",
+    "answer": "der Vater",
+    "example": "Sein **Vater** ist Arzt."
+  },
+  {
+    "translation": "ребенок",
+    "answer": "das Kind",
+    "example": "Das **Kind** spielt im Garten."
+  },
+  {
+    "translation": "чай",
+    "answer": "der Tee",
+    "example": "Möchtest du einen **Tee**?"
+  },
+  {
+    "translation": "кофе",
+    "answer": "der Kaffee",
+    "example": "Ich trinke morgens **Kaffee**."
+  },
+  {
+    "translation": "хлеб",
+    "answer": "das Brot",
+    "example": "Dazu esse ich **Brot**."
+  },
+  {
+    "translation": "фрукты",
+    "answer": "das Obst",
+    "example": "**Obst** ist gesund."
+  },
+  {
+    "translation": "магазин",
+    "answer": "der Laden/das Geschäft",
+    "example": "Ich gehe in den **Laden**."
+  },
+  {
+    "translation": "вокзал",
+    "answer": "der Bahnhof",
+    "example": "Der Zug fährt zum **Bahnhof**."
+  },
+  {
+    "translation": "аптека",
+    "answer": "die Apotheke",
+    "example": "Ich brauche etwas aus der **Apotheke**."
+  },
+  {
+    "translation": "почта",
+    "answer": "die Post",
+    "example": "Das Paket ist bei der **Post**."
+  },
+  {
+    "translation": "метро, поезд",
+    "answer": "die U-Bahn/der Zug",
+    "example": "Nimm die **U-Bahn**."
+  },
+  {
+    "translation": "автобус",
+    "answer": "der Bus",
+    "example": "Wo hält der **Bus**?"
+  },
+  {
+    "translation": "билет",
+    "answer": "die Fahrkarte",
+    "example": "Ich kaufe eine **Fahrkarte**."
+  },
+  {
+    "translation": "куртка/пальто",
+    "answer": "die Jacke/der Mantel",
+    "example": "Wo ist meine **Jacke**?"
+  },
+  {
+    "translation": "обувь",
+    "answer": "die Schuhe (Plural)",
+    "example": "Diese **Schuhe** sind neu."
+  },
+  {
+    "translation": "цена",
+    "answer": "der Preis",
+    "example": "Was ist der **Preis**?"
+  },
+  {
+    "translation": "комната",
+    "answer": "das Zimmer",
+    "example": "Mein **Zimmer** ist hell."
+  },
+  {
+    "translation": "ключ",
+    "answer": "der Schlüssel",
+    "example": "Wo ist mein **Schlüssel**?"
+  },
+  {
+    "translation": "хобби",
+    "answer": "das Hobby",
+    "example": "Mein **Hobby** ist Lesen."
+  },
+  {
+    "translation": "язык",
+    "answer": "die Sprache",
+    "example": "Deutsch ist eine schwere **Sprache**."
+  },
+  {
+    "translation": "время",
+    "answer": "die Zeit",
+    "example": "Ich habe keine **Zeit**."
+  },
+  {
+    "translation": "год",
+    "answer": "das Jahr",
+    "example": "Das **Jahr** hat 12 Monate."
+  },
+  {
+    "translation": "понедельник",
+    "answer": "der Montag",
+    "example": "Am **Montag** habe ich frei."
+  },
+  {
+    "translation": "утро",
+    "answer": "der Morgen",
+    "example": "Am **Morgen** trinke ich Kaffee."
+  },
+  {
+    "translation": "еда",
+    "answer": "das Essen",
+    "example": "Das **Essen** ist fertig."
+  },
+  {
+    "translation": "суп",
+    "answer": "die Suppe",
+    "example": "Die **Suppe** ist heiß."
+  },
+  {
+    "translation": "голова",
+    "answer": "der Kopf",
+    "example": "Mir tut der **Kopf** weh."
+  },
+  {
+    "translation": "рука",
+    "answer": "die Hand",
+    "example": "Gib mir deine **Hand**."
+  },
+  {
+    "translation": "нога (ступня)",
+    "answer": "der Fuß",
+    "example": "Ich habe Schmerzen im **Fuß**."
+  },
+  {
+    "translation": "тело",
+    "answer": "der Körper",
+    "example": "Pflege deinen **Körper**."
+  },
+  {
+    "translation": "где?",
+    "answer": "Wo?",
+    "example": "**Wo** wohnst du?"
+  },
+  {
+    "translation": "что?",
+    "answer": "Was?",
+    "example": "**Was** machst du gerade?"
+  },
+  {
+    "translation": "как?",
+    "answer": "Wie?",
+    "example": "**Wie** geht es dir?"
+  },
+  {
+    "translation": "под",
+    "answer": "unter",
+    "example": "Die Katze ist **unter** dem Tisch."
+  },
+  {
+    "translation": "на (горизонтальная поверхность)",
+    "answer": "auf",
+    "example": "Das Buch liegt **auf** dem Regal."
+  },
+  {
+    "translation": "в, внутри",
+    "answer": "in",
+    "example": "Ich bin **in** der Schule."
+  },
+  {
+    "translation": "хороший/плохой",
+    "answer": "gut/schlecht",
+    "example": "Das Wetter ist **gut**/**schlecht**."
+  },
+  {
+    "translation": "большой/маленький",
+    "answer": "groß/klein",
+    "example": "Unsere Wohnung ist **groß**."
+  },
+  {
+    "translation": "старый/новый",
+    "answer": "alt/neu",
+    "example": "Das ist ein **altes** Auto."
+  },
+  {
+    "translation": "холодный/теплый",
+    "answer": "kalt/warm",
+    "example": "Mir ist **kalt**."
+  },
+  {
+    "translation": "январь",
+    "answer": "der Januar",
+    "example": "Im **Januar** ist es kalt."
+  },
+  {
+    "translation": "июль",
+    "answer": "der Juli",
+    "example": "Der Sommer beginnt im **Juli**."
+  },
+  {
+    "translation": "зима",
+    "answer": "der Winter",
+    "example": "Der **Winter** ist lang."
+  },
+  {
+    "translation": "лето",
+    "answer": "der Sommer",
+    "example": "Im **Sommer** ist es heiß."
+  },
+  {
+    "translation": "солнце",
+    "answer": "die Sonne",
+    "example": "Die **Sonne** scheint."
+  },
+  {
+    "translation": "дождь",
+    "answer": "der Regen",
+    "example": "Es regnet. Ich mag den **Regen** nicht."
+  },
+  {
+    "translation": "облако",
+    "answer": "die Wolke",
+    "example": "Viele **Wolken** am Himmel."
+  },
+  {
+    "translation": "снег",
+    "answer": "der Schnee",
+    "example": "Im **Schnee** spielen die Kinder."
+  },
+  {
+    "translation": "погода",
+    "answer": "das Wetter",
+    "example": "Wie ist das **Wetter** heute?"
+  },
+  {
+    "translation": "жарко",
+    "answer": "heiß",
+    "example": "Heute ist es sehr **heiß**."
+  },
+  {
+    "translation": "дождливый",
+    "answer": "regnerisch",
+    "example": "Es ist ein **regnerischer** Tag."
+  },
+  {
+    "translation": "счастливый",
+    "answer": "glücklich",
+    "example": "Sie ist sehr **glücklich**."
+  },
+  {
+    "translation": "грустный",
+    "answer": "traurig",
+    "example": "Er ist **traurig**, weil er allein ist."
+  },
+  {
+    "translation": "голодный",
+    "answer": "hungrig",
+    "example": "Ich bin **hungrig**. Lass uns essen!"
+  },
+  {
+    "translation": "уставший",
+    "answer": "müde",
+    "example": "Ich gehe schlafen, ich bin **müde**."
+  },
+  {
+    "translation": "больной",
+    "answer": "krank",
+    "example": "Er kann nicht arbeiten, er ist **krank**."
+  },
+  {
+    "translation": "врач/доктор",
+    "answer": "der Arzt / die Ärztin",
+    "example": "Ich gehe zum **Arzt**."
+  },
+  {
+    "translation": "учитель",
+    "answer": "der Lehrer / die Lehrerin",
+    "example": "Der **Lehrer** erklärt die Grammatik."
+  },
+  {
+    "translation": "студент",
+    "answer": "der Student / die Studentin",
+    "example": "Sie ist eine **Studentin** in Bern."
+  },
+  {
+    "translation": "продавец",
+    "answer": "der Verkäufer / die Verkäuferin",
+    "example": "Der **Verkäufer** hilft mir."
+  },
+  {
+    "translation": "муж",
+    "answer": "der Ehemann",
+    "example": "Das ist mein **Ehemann**."
+  },
+  {
+    "translation": "жена",
+    "answer": "die Ehefrau",
+    "example": "Seine **Ehefrau** kommt später."
+  },
+  {
+    "translation": "бабушка",
+    "answer": "die Großmutter (die Oma)",
+    "example": "Meine **Oma** wohnt in Basel."
+  },
+  {
+    "translation": "дедушка",
+    "answer": "der Großvater (der Opa)",
+    "example": "Mein **Opa** ist sehr alt."
+  },
+  {
+    "translation": "сын",
+    "answer": "der Sohn",
+    "example": "Das ist unser **Sohn**."
+  },
+  {
+    "translation": "дочь",
+    "answer": "die Tochter",
+    "example": "Sie hat eine **Tochter**."
+  },
+  {
+    "translation": "телефон",
+    "answer": "das Telefon",
+    "example": "Kannst du das **Telefon** beantworten?"
+  },
+  {
+    "translation": "письмо",
+    "answer": "der Brief",
+    "example": "Ich schreibe einen **Brief** an meine Mutter."
+  },
+  {
+    "translation": "газета",
+    "answer": "die Zeitung",
+    "example": "Liest du jeden Morgen die **Zeitung**?"
+  },
+  {
+    "translation": "ручка (шариковая)",
+    "answer": "der Kugelschreiber (der Kuli)",
+    "example": "Hast du einen **Kuli**?"
+  },
+  {
+    "translation": "бумага",
+    "answer": "das Papier",
+    "example": "Ich brauche ein Blatt **Papier**."
+  },
+  {
+    "translation": "час",
+    "answer": "die Stunde",
+    "example": "Der Kurs dauert eine **Stunde**."
+  },
+  {
+    "translation": "минута",
+    "answer": "die Minute",
+    "example": "Warte bitte zehn **Minuten**."
+  },
+  {
+    "translation": "полночь (0:00)",
+    "answer": "Mitternacht",
+    "example": "Es ist **Mitternacht**."
+  },
+  {
+    "translation": "завтра",
+    "answer": "morgen",
+    "example": "Wir sehen uns **morgen**."
+  },
+  {
+    "translation": "вчера",
+    "answer": "gestern",
+    "example": "**Gestern** war Sonntag."
+  },
+  {
+    "translation": "сегодня",
+    "answer": "heute",
+    "example": "**Heute** ist Montag."
+  },
+  {
+    "translation": "одиннадцать (11)",
+    "answer": "elf",
+    "example": "Er ist **elf** Jahre alt."
+  },
+  {
+    "translation": "двенадцать (12)",
+    "answer": "zwölf",
+    "example": "**Zwölf** Stunden hat der Tag."
+  },
+  {
+    "translation": "двадцать один (21)",
+    "answer": "einundzwanzig",
+    "example": "Meine Nummer ist **einundzwanzig**."
+  },
+  {
+    "translation": "сто (100)",
+    "answer": "hundert",
+    "example": "Das kostet **hundert** Franken."
+  },
+  {
+    "translation": "белый",
+    "answer": "weiß",
+    "example": "Schnee ist **weiß**."
+  },
+  {
+    "translation": "черный",
+    "answer": "schwarz",
+    "example": "Ich trinke Kaffee **schwarz**."
+  },
+  {
+    "translation": "зеленый",
+    "answer": "grün",
+    "example": "Der Baum ist **grün**."
+  },
+  {
+    "translation": "коричневый",
+    "answer": "braun",
+    "example": "Mein Hund ist **braun**."
+  },
+  {
+    "translation": "потому что",
+    "answer": "weil",
+    "example": "Ich lerne Deutsch, **weil** ich in Berlin wohne."
+  },
+  {
+    "translation": "и",
+    "answer": "und",
+    "example": "Ich mag Kaffee **und** Kuchen."
+  },
+  {
+    "translation": "но",
+    "answer": "aber",
+    "example": "Es ist kalt, **aber** schön."
+  },
+  {
+    "translation": "или",
+    "answer": "oder",
+    "example": "Möchtest du Tee **oder** Kaffee?"
+  },
+  {
+    "translation": "около, у (Dativ)",
+    "answer": "bei",
+    "example": "Ich wohne **bei** meiner Schwester."
+  },
+  {
+    "translation": "с (Dativ)",
+    "answer": "mit",
+    "example": "Ich fahre **mit** dem Zug."
+  },
+  {
+    "translation": "к, в направлении (Dativ)",
+    "answer": "nach",
+    "example": "Wir fahren **nach** Deutschland."
+  },
+  {
+    "translation": "от, из (Dativ)",
+    "answer": "von",
+    "example": "Das Geschenk ist **von** meinem Vater."
+  },
+  {
+    "translation": "для (Akkusativ)",
+    "answer": "für",
+    "example": "Das ist **für** dich."
+  },
+  {
+    "translation": "через (Akkusativ)",
+    "answer": "durch",
+    "example": "Wir gehen **durch** den Park."
+  },
+  {
+    "translation": "без (Akkusativ)",
+    "answer": "ohne",
+    "example": "Ich trinke Kaffee **ohne** Zucker."
+  },
+  {
+    "translation": "вокруг (Akkusativ)",
+    "answer": "um",
+    "example": "Wir spazieren **um** den See."
+  },
+  {
+    "translation": "чтобы (цель)",
+    "answer": "dass",
+    "example": "Ich weiß, **dass** du Recht hast."
+  }
+]
