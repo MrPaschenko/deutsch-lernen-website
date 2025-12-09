@@ -38,7 +38,7 @@ const createArtikelButtons = () => {
     button.onclick = () => {
       if (artikel === rightArtikel) {
 				score += 1;
-        alert("Все вірно, молодець!");
+        alert("Все правильно, молодець!");
 				renderScore();
 				nextWord();
       } else {
